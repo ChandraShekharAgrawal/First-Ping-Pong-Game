@@ -1,2 +1,2 @@
 # Sample-1
-Just for checking how the system works
+This is my first project from Udemy on javascript.
